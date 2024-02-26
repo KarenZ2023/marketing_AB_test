@@ -3,8 +3,8 @@
 This repository contains code and data for analyzing Marketing A/B Testing results to determine the effectiveness of ads in increasing product purchases and revenue.
 
 ## Files
-AB_Testing.ipynb: Jupyter Notebook containing Python code for A/B testing analysis.
-kaggle_marketing_AB.csv: Dataset for A/B testing analysis obtained from Kaggle.
+`AB_Testing.ipynb`: Jupyter Notebook containing Python code for A/B testing analysis.
+`kaggle_marketing_AB.csv`: Dataset for A/B testing analysis obtained from Kaggle.
 
 ## Problem Statement
 The goal of this project is to analyze Marketing A/B Testing results to assess whether displaying ads leads to a significant increase in conversion rates compared to showing public service announcements (PSAs).
